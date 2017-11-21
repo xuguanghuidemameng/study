@@ -6,4 +6,5 @@ void main(){
 	
 	//add in sec
 	printf("add in sec");
+	int a = 0;
 }
