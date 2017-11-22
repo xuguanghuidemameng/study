@@ -1,5 +1,11 @@
 #include "stdio.h"
 
+int DevelopinMaster(){
+	int master = ;
+}
+
+
+
 void main(){
 
 	printf("hello world");
