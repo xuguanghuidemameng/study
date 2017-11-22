@@ -1,7 +1,9 @@
 #include "stdio.h"
 
 int DevelopinMaster(){
-	int master = ;
+	int master = 0 ;
+	// write this fun in master
+	
 }
 
 
